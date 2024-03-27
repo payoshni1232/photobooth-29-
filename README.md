@@ -15,6 +15,3 @@ When a photo is uploaded to Study Snap it is free to be deleted from gallery, do
 
 ![demo](demo/study_snap_demo.gif)
 
-## Download
-
-<a href='https://play.google.com/store/apps/details?id=dnp.study_snap'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="170"/></a>
